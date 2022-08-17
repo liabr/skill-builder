@@ -1,0 +1,15 @@
+C:\BJSS_Dev\Bench Project\C#\skill-builder\bin\Debug\net6.0\skill-builder.exe
+C:\BJSS_Dev\Bench Project\C#\skill-builder\bin\Debug\net6.0\skill-builder.deps.json
+C:\BJSS_Dev\Bench Project\C#\skill-builder\bin\Debug\net6.0\skill-builder.runtimeconfig.json
+C:\BJSS_Dev\Bench Project\C#\skill-builder\bin\Debug\net6.0\skill-builder.dll
+C:\BJSS_Dev\Bench Project\C#\skill-builder\bin\Debug\net6.0\skill-builder.pdb
+C:\BJSS_Dev\Bench Project\C#\skill-builder\obj\Debug\net6.0\skill-builder.csproj.AssemblyReference.cache
+C:\BJSS_Dev\Bench Project\C#\skill-builder\obj\Debug\net6.0\skill-builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\BJSS_Dev\Bench Project\C#\skill-builder\obj\Debug\net6.0\skill-builder.AssemblyInfoInputs.cache
+C:\BJSS_Dev\Bench Project\C#\skill-builder\obj\Debug\net6.0\skill-builder.AssemblyInfo.cs
+C:\BJSS_Dev\Bench Project\C#\skill-builder\obj\Debug\net6.0\skill-builder.csproj.CoreCompileInputs.cache
+C:\BJSS_Dev\Bench Project\C#\skill-builder\obj\Debug\net6.0\skill-builder.dll
+C:\BJSS_Dev\Bench Project\C#\skill-builder\obj\Debug\net6.0\refint\skill-builder.dll
+C:\BJSS_Dev\Bench Project\C#\skill-builder\obj\Debug\net6.0\skill-builder.pdb
+C:\BJSS_Dev\Bench Project\C#\skill-builder\obj\Debug\net6.0\skill-builder.genruntimeconfig.cache
+C:\BJSS_Dev\Bench Project\C#\skill-builder\obj\Debug\net6.0\ref\skill-builder.dll
